@@ -9,7 +9,7 @@
 
 In this module, the basic structure of a React application was created using tools such as Webpack, Babel, Webpack Dev server, SASS, Source Maps, Fast Refresh and was taught important React concepts such as components, properties, states and hooks, and adding TypeScript to the project to add static typing to the application.
 
-<img src="https://raw.githubusercontent.com/monteiro-alexandre/ignite-reactjs-github-explorer/main/.github/assets/github-explorer.png" alt="GitHub Explorer" width="100%" />
+<img src="https://raw.githubusercontent.com/monteiro-alexandre/ignite-reactjs-github-explorer/master/.github/assets/github-explorer.png" alt="GitHub Explorer" width="100%" />
 
 # :pushpin: Table of Contents
 
