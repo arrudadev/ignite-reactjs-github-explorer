@@ -13,7 +13,7 @@ In this module, the basic structure of a React application was created using too
 
 # :pushpin: Table of Contents
 
-* [Technologies](#laptop_computer-technologies)
+* [Technologies](#-technologies)
 * [Installation](#construction_worker-installation)
 * [Getting Started](#runner-getting-started)
 * [Found a bug? Missing a specific feature?](#bug-issues)
